@@ -20,7 +20,7 @@ function PesticideList() {
                 <Pesticides name={`Krezo`} img={`./Assets/PESTICIDES/fungicid/krezo.png`} country={`MADE IN GERMANY `} about={`the active substance՝ KREZOXIN METIL 500`}/>
                 <Pesticides name={`Kurzak`} img={`./Assets/PESTICIDES/fungicid/kurzak.jpg`} country={`MADE IN INDIA`} about={`the active substance՝ COPPER OXICOLIDE 250G/KG`}/>
                 <Pesticides name={`Tebusol`} img={`./Assets/PESTICIDES/fungicid/tebusol.jpg`} country={`MADE IN INDIA`} about={`the active substance՝ TEBUKONAZOLE 100G/KG + SOLPHUR 650G/KG`}/>
-                <Pesticides name={`Victoria`} img={`./Assets/PESTICIDES/fungicid/Victoria.jpg`} country={`MADE IN GERMANY `} about={`the active substance՝ MANCOZRB 64% + METALAXIL 8%`}/>
+                <Pesticides name={`Victorina`} img={`./Assets/PESTICIDES/fungicid/Victoria.jpg`} country={`MADE IN GERMANY `} about={`the active substance՝ MANCOZRB 64% + METALAXIL 8%`}/>
             </div><br /><br />
             <h2 className='HerbecidTitle'>Herbecides</h2>
             <div className="Herbecides">
@@ -33,14 +33,14 @@ function PesticideList() {
             <h2 className="InsecticidTitle">Insecticides</h2>
             <div className="Insecticides">
                 <Insecticid name={`Abek`} img={`./Assets/PESTICIDES/insecticid/abek.png`}  about={`the active substance՝ ABAMEKTIN 18G/L`} country={`Made in India`}/>
-                <Insecticid name={`Armor`} img={`./Assets/PESTICIDES/insecticid/armor.png`} country={`MADE IN GERMANY `} about={`the active substance՝ ACETAMIPRID 20 + LAMBDA 15`}/>
+                <Insecticid name={`Armor`} img={`./Assets/PESTICIDES/insecticid/armor.png`} country={`MADE IN GERMANY `} about={`the active substance՝ ACETAMIPRID 200 + LAMBDA-CIALOTRIN 150`}/>
                 <Insecticid name={`Diaz`} img={`./Assets/PESTICIDES/insecticid/diaz.jpg`} about={`the active substance՝  FIPRONIL 3G/KG`} country={`Made in India`}/>
                 <Insecticid name={`Fipro`} img={`./Assets/PESTICIDES/insecticid/fipro.png`}  about={`the active substance՝ FIPRONIL + CLOROPIRIFOS`} country={`Made in India`}/>
                 <Insecticid name={`Maxak`} img={`./Assets/PESTICIDES/insecticid/maxak.jpg`}  about={`the active substance՝ ALFA CIPERMETRIN 100G/L`} country={`Made in India`}/>
-                <Insecticid name={`Medal`} img={`./Assets/PESTICIDES/insecticid/medal.png`}  about={`the active substance՝ TIAMETOCSAM`} country={`Made in India`}/>
-                <Insecticid name={`Napaleon`} img={`./Assets/PESTICIDES/insecticid/napaleon.png`} about={`the active substance՝ TIAMETOCSAM`} country={`Made in India`}/>
+                <Insecticid name={`Medal`} img={`./Assets/PESTICIDES/insecticid/medal.png`}  about={`the active substance՝ TIAMETOCSAM 250`} country={`Made in India`}/>
+                <Insecticid name={`Napaleon`} img={`./Assets/PESTICIDES/insecticid/napaleon.png`} about={`the active substance՝ cLOROPIRIFOS 480`} country={`Made in India`}/>
                 <Insecticid name={`Payt`} img={`./Assets/PESTICIDES/insecticid/payt-removebg-preview.png`}  about={`the active substance՝ BIFENTRIN 100`} country={`Made in India`}/>
-                <Insecticid name={`Perfecto`} img={`./Assets/PESTICIDES/insecticid/perfecto.png`} country={`MADE IN GERMANY `} about={`the active substance՝ IMIDACLOPRID + LAMBDA-CIHALOTRIN 5%`}/>
+                <Insecticid name={`Perfecto`} img={`./Assets/PESTICIDES/insecticid/perfecto.png`} country={`MADE IN GERMANY `} about={`the active substance՝ IMIDACLOPRID 125 + LAMBDA-CIHALOTRIN 50%`}/>
                 <Insecticid name={`Pirani`} img={`./Assets/PESTICIDES/insecticid/pirani.jpg`}  about={`the active substance՝ EMAMEKTIN BEZOAT 50G/KG`} country={`Made in India`}/>
                 <Insecticid name={`Polistar`} img={`./Assets/PESTICIDES/insecticid/polistar.png`} country={`Made in India`} about={`the active substance՝ BIFENTRIN 100`}/>
                 <Insecticid name={`Profeno`} img={`./Assets/PESTICIDES/insecticid/profeno-removebg-preview.png`} country={`Made in India`} about={`the active substance՝ PROFENOFOS 500`}/>
