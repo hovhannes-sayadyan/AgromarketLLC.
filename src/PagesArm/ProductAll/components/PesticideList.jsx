@@ -20,7 +20,7 @@ function PesticideList() {
                 <Pesticides name={`Krezo`} img={`./Assets/PESTICIDES/fungicid/krezo.png`} country={`ԱՐՏԱԴՐՎԱԾ Է ԳԵՐՄԱՆԻԱՅՈՒՄ `} about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝ KREZOXIN METIL 500`}/>
                 <Pesticides name={`Kurzak`} img={`./Assets/PESTICIDES/fungicid/kurzak.jpg`} country={`ԱՐՏԱԴՐՎԱԾ Է ՀՆԴԿԱՍՏԱՆՈՒՄ`} about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝ COPPER OXICOLIDE 250G/KG`}/>
                 <Pesticides name={`Tebusol`} img={`./Assets/PESTICIDES/fungicid/tebusol.jpg`} country={`ԱՐՏԱԴՐՎԱԾ Է ՀՆԴԿԱՍՏԱՆՈՒՄ`} about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝ TEBUKONAZOLE 100G/KG + SOLPHUR 650G/KG`}/>
-                <Pesticides name={`Victoria`} img={`./Assets/PESTICIDES/fungicid/Victoria.jpg`} country={`ԱՐՏԱԴՐՎԱԾ Է ԳԵՐՄԱՆԻԱՅՈՒՄ `} about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝ MANCOZRB 64% + METALAXIL 8%`}/>
+                <Pesticides name={`Victorina`} img={`./Assets/PESTICIDES/fungicid/Victoria.jpg`} country={`ԱՐՏԱԴՐՎԱԾ Է ԳԵՐՄԱՆԻԱՅՈՒՄ `} about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝ MANCOZRB 64% + METALAXIL 8%`}/>
             </div><br /><br />
             <h2 className='HerbecidTitle'>ՀԵՐԲԵՑԻԴՆԵՐ</h2>
             <div className="Herbecides">
@@ -33,14 +33,14 @@ function PesticideList() {
             <h2 className="InsecticidTitle">ԻՆՍԵՑՏԻՑԻԴՆԵՐ</h2>
             <div className="Insecticides">
                 <Insecticid name={`Abek`} img={`./Assets/PESTICIDES/insecticid/abek.png`}  about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝ ABAMEKTIN 18G/L`} country={`ԱՐՏԱԴՐՎԱԾ Է ՀՆԴԿԱՍՏԱՆՈՒՄ`}/>
-                <Insecticid name={`Armor`} img={`./Assets/PESTICIDES/insecticid/armor.png`} country={`ԱՐՏԱԴՐՎԱԾ Է ԳԵՐՄԱՆԻԱՅՈՒՄ `} about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝ ACETAMIPRID 20 + LAMBDA 15`}/>
+                <Insecticid name={`Armor`} img={`./Assets/PESTICIDES/insecticid/armor.png`} country={`ԱՐՏԱԴՐՎԱԾ Է ԳԵՐՄԱՆԻԱՅՈՒՄ `} about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝ ACETAMIPRID 200 + LAMBDA-CIHALOTRIN 150`}/>
                 <Insecticid name={`Diaz`} img={`./Assets/PESTICIDES/insecticid/diaz.jpg`} about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝  FIPRONIL 3G/KG`} country={`ԱՐՏԱԴՐՎԱԾ Է ՀՆԴԿԱՍՏԱՆՈՒՄ`}/>
                 <Insecticid name={`Fipro`} img={`./Assets/PESTICIDES/insecticid/fipro.png`}  about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝ FIPRONIL + CLOROPIRIFOS`} country={`ԱՐՏԱԴՐՎԱԾ Է ՀՆԴԿԱՍՏԱՆՈՒՄ`}/>
                 <Insecticid name={`Maxak`} img={`./Assets/PESTICIDES/insecticid/maxak.jpg`}  about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝ ALFA CIPERMETRIN 100G/L`} country={`ԱՐՏԱԴՐՎԱԾ Է ՀՆԴԿԱՍՏԱՆՈՒՄ`}/>
-                <Insecticid name={`Medal`} img={`./Assets/PESTICIDES/insecticid/medal.png`}  about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝ TIAMETOCSAM`} country={`ԱՐՏԱԴՐՎԱԾ Է ՀՆԴԿԱՍՏԱՆՈՒՄ`}/>
-                <Insecticid name={`Napaleon`} img={`./Assets/PESTICIDES/insecticid/napaleon.png`} about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝ TIAMETOCSAM`} country={`ԱՐՏԱԴՐՎԱԾ Է ՀՆԴԿԱՍՏԱՆՈՒՄ`}/>
+                <Insecticid name={`Medal`} img={`./Assets/PESTICIDES/insecticid/medal.png`}  about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝ TIAMETOCSAM 250`} country={`ԱՐՏԱԴՐՎԱԾ Է ՀՆԴԿԱՍՏԱՆՈՒՄ`}/>
+                <Insecticid name={`Napaleon`} img={`./Assets/PESTICIDES/insecticid/napaleon.png`} about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝ CLOROPIRIFOS 480`} country={`ԱՐՏԱԴՐՎԱԾ Է ՀՆԴԿԱՍՏԱՆՈՒՄ`}/>
                 <Insecticid name={`Payt`} img={`./Assets/PESTICIDES/insecticid/payt-removebg-preview.png`}  about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝ BIFENTRIN 100`} country={`ԱՐՏԱԴՐՎԱԾ Է ՀՆԴԿԱՍՏԱՆՈՒՄ`}/>
-                <Insecticid name={`Perfecto`} img={`./Assets/PESTICIDES/insecticid/perfecto.png`} country={`ԱՐՏԱԴՐՎԱԾ Է ԳԵՐՄԱՆԻԱՅՈՒՄ `} about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝ IMIDACLOPRID + LAMBDA-CIHALOTRIN 5%`}/>
+                <Insecticid name={`Perfecto`} img={`./Assets/PESTICIDES/insecticid/perfecto.png`} country={`ԱՐՏԱԴՐՎԱԾ Է ԳԵՐՄԱՆԻԱՅՈՒՄ `} about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝ IMIDACLOPRID 125 + LAMBDA-CIHALOTRIN 50%`}/>
                 <Insecticid name={`Pirani`} img={`./Assets/PESTICIDES/insecticid/pirani.jpg`}  about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝ EMAMEKTIN BEZOAT 50G/KG`} country={`ԱՐՏԱԴՐՎԱԾ Է ՀՆԴԿԱՍՏԱՆՈՒՄ`}/>
                 <Insecticid name={`Polistar`} img={`./Assets/PESTICIDES/insecticid/polistar.png`} country={`ԱՐՏԱԴՐՎԱԾ Է ՀՆԴԿԱՍՏԱՆՈՒՄ`} about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝ BIFENTRIN 100`}/>
                 <Insecticid name={`Profeno`} img={`./Assets/PESTICIDES/insecticid/profeno-removebg-preview.png`} country={`ԱՐՏԱԴՐՎԱԾ Է ՀՆԴԿԱՍՏԱՆՈՒՄ`} about={`ԱԶԴՈՂ ՆՅՈՒԹԸ՝ PROFENOFOS 500`}/>
