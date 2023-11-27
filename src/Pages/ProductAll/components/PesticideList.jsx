@@ -38,7 +38,7 @@ function PesticideList() {
                 <Insecticid name={`Fipro`} img={`./Assets/PESTICIDES/insecticid/fipro.png`}  about={`the active substance՝ FIPRONIL + CLOROPIRIFOS`} country={`Made in India`}/>
                 <Insecticid name={`Maxak`} img={`./Assets/PESTICIDES/insecticid/maxak.jpg`}  about={`the active substance՝ ALFA CIPERMETRIN 100G/L`} country={`Made in India`}/>
                 <Insecticid name={`Medal`} img={`./Assets/PESTICIDES/insecticid/medal.png`}  about={`the active substance՝ TIAMETOCSAM 250`} country={`Made in India`}/>
-                <Insecticid name={`Napaleon`} img={`./Assets/PESTICIDES/insecticid/napaleon.png`} about={`the active substance՝ cLOROPIRIFOS 480`} country={`Made in India`}/>
+                <Insecticid name={`Napaleon`} img={`./Assets/PESTICIDES/insecticid/napaleon.png`} about={`the active substance՝ CLOROPIRIFOS 480`} country={`Made in India`}/>
                 <Insecticid name={`Payt`} img={`./Assets/PESTICIDES/insecticid/payt-removebg-preview.png`}  about={`the active substance՝ BIFENTRIN 100`} country={`Made in India`}/>
                 <Insecticid name={`Perfecto`} img={`./Assets/PESTICIDES/insecticid/perfecto.png`} country={`MADE IN GERMANY `} about={`the active substance՝ IMIDACLOPRID 125 + LAMBDA-CIHALOTRIN 50%`}/>
                 <Insecticid name={`Pirani`} img={`./Assets/PESTICIDES/insecticid/pirani.jpg`}  about={`the active substance՝ EMAMEKTIN BEZOAT 50G/KG`} country={`Made in India`}/>
