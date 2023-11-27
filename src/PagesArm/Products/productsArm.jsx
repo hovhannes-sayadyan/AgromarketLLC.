@@ -18,9 +18,9 @@ function Products() {
           text4={`ԱՐԴՅՈՒՆՔԸ 95-100%`}
         />
         <ProductsProps
-          name={`ՎԻԿՏՈՐԻԱ`}
+          name={`ՎԻԿՏՈՐԻՆԱ`}
           img={`./Assets/PESTICIDES/fungicid/Victoria.jpg`}
-          text1={`ՎԻՑՏՈՐԻԱՆ ԲԱՐՁՐ ՈՐԱԿԻ ՖՒՆԳԻՑԻԴ Է.`}
+          text1={`ՎԻԿՏՈՐԻՆԱՆ ԲԱՐՁՐ ՈՐԱԿԻ ՖՒՆԳԻՑԻԴ Է.`}
           text2={`Made in India.`}
           text3={`ԱՐՏԱԴՐՈՂ՝ JU Agri`}
           text4={`ԱՐԴՅՈՒՆՔԸ 95-100%`}
